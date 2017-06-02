@@ -42,7 +42,7 @@
 
         Explain why you made the change in the first place. How things were working before and how things are working now and why you have decided to solve it that way
 
-[ Read More on the the official blog ] (https://chris.beams.io/posts/git-commit/)
+[Read More on the the official blog] (https://chris.beams.io/posts/git-commit/)
 
 
 
